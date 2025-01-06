@@ -21,6 +21,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0198-house-robber](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0213-house-robber-ii) |
 ## Linked List
@@ -43,6 +44,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0008-string-to-integer-atoi) |
 ## Sliding Window
 |  |
@@ -51,6 +53,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0011-container-with-most-water) |
 ## Greedy
 |  |
