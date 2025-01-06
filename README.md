@@ -42,6 +42,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0008-string-to-integer-atoi](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0008-string-to-integer-atoi) |
 ## Sliding Window
 |  |
 | ------- |
