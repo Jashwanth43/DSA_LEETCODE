@@ -10,6 +10,7 @@
 | [0035-search-insert-position](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0189-rotate-array](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0213-house-robber-ii) |
 | [0238-product-of-array-except-self](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0238-product-of-array-except-self) |
@@ -37,6 +38,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0002-add-two-numbers) |
+| [0189-rotate-array](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0189-rotate-array) |
 ## Recursion
 |  |
 | ------- |
@@ -62,6 +64,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0011-container-with-most-water) |
+| [0189-rotate-array](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0189-rotate-array) |
 ## Greedy
 |  |
 | ------- |
