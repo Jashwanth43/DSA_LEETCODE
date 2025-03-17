@@ -1,29 +1,21 @@
 class Solution {
     public int lengthOfLongestSubstring(String s) {
-        // Use a HashSet to track characters in the current window
-        Set<Character> set = new HashSet<>();
-        
-        // Pointers for the sliding window
-        int left = 0;
-        int maxLength = 0;
+      Map<Character,Integer> map=new HashMap<>();
+      int max=0;
+      int i=0;
+      int j=0;
+      while(i<s.length() && j<s.length()){
+        if(map.containsKey(s.charAt(j))){
 
-        // Iterate through the string
-        for (int right = 0; right < s.length(); right++) {
-            char currentChar = s.charAt(right);
-
-            // If the character is already in the set, remove characters from the left
-            while (set.contains(currentChar)) {
-                set.remove(s.charAt(left));
-                left++;
-            }
-
-            // Add the current character to the set
-            set.add(currentChar);
-
-            // Update the maximum length of the substring
-            maxLength = Math.max(maxLength, right - left + 1);
+          i=Math.max(i,map.get(s.charAt(j))+1);
         }
+        // System.out.println(i+" "+j);
 
-        return maxLength;
+        max=Math.max(max,((j-i)+1));
+        // System.out.println(max);
+        map.put(s.charAt(j),j);
+        j++;
+      } 
+      return max;
     }
 }
