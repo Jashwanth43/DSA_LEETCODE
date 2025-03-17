@@ -55,6 +55,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0008-string-to-integer-atoi) |
+| [0125-valid-palindrome](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0344-reverse-string) |
 ## Sliding Window
 |  |
@@ -65,6 +66,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0011-container-with-most-water) |
+| [0125-valid-palindrome](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0344-reverse-string) |
 ## Greedy
