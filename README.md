@@ -7,6 +7,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -66,6 +67,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0344-reverse-string) |
@@ -77,4 +79,8 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0053-maximum-subarray) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
