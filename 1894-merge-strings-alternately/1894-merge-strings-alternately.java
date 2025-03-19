@@ -3,20 +3,14 @@ class Solution {
         int first=0;
         int second=0;
         StringBuffer sb= new StringBuffer();
-        while(first<word1.length() && second<word2.length()){
-          sb.append(word1.charAt(first));
-         sb.append(word2.charAt(second));
-         first++;
-         second++;
-
-        }
-        while(first<word1.length()){
-             sb.append(word1.charAt(first));
-             first++;
-        }
-        while(second<word2.length()){
-             sb.append(word2.charAt(second));
-             second++;
+        int max=Math.max(word1.length(),word2.length());
+        for(int i=0;i<max;i++){
+            if(i<word1.length()){
+                sb.append(word1.charAt(i));
+            }
+            if(i<word2.length()){
+                sb.append(word2.charAt(i));
+            }
         }
         return sb.toString();
     }
