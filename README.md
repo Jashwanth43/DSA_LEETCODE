@@ -16,6 +16,7 @@
 | [0198-house-robber](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0213-house-robber-ii) |
 | [0238-product-of-array-except-self](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0238-product-of-array-except-self) |
+| [0605-can-place-flowers](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0605-can-place-flowers) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Binary Search
 |  |
@@ -82,6 +83,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0011-container-with-most-water) |
+| [0605-can-place-flowers](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0605-can-place-flowers) |
 ## Divide and Conquer
 |  |
 | ------- |
