@@ -16,6 +16,7 @@
 | [0198-house-robber](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0213-house-robber-ii) |
 | [0238-product-of-array-except-self](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0238-product-of-array-except-self) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Binary Search
 |  |
 | ------- |
