@@ -62,6 +62,7 @@
 | [0008-string-to-integer-atoi](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0008-string-to-integer-atoi) |
 | [0125-valid-palindrome](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/1894-merge-strings-alternately) |
 ## Sliding Window
@@ -78,6 +79,7 @@
 | [0125-valid-palindrome](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
 | [1894-merge-strings-alternately](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/1894-merge-strings-alternately) |
 ## Greedy
 |  |
