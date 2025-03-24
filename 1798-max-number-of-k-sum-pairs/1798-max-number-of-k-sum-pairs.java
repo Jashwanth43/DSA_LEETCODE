@@ -1,24 +1,20 @@
 class Solution {
     public int maxOperations(int[] nums, int k) {
-    Arrays.sort(nums);
+    Map<Integer,Integer> map=new HashMap<Integer,Integer>();
     int op=0;
-    int i=0;
-    int j=nums.length-1;
-    int sum=0;
-    while(i<j){
-        sum=nums[i]+nums[j];
-        if(sum==k){
+    for(int i=0;i<nums.length;i++){
+        int sum=k-nums[i];
+        if(map.containsKey(sum)){
+            if(map.get(sum)==1)map.remove(sum);
+            else{
+                map.put(sum,map.get(sum)-1);
+            }
             op++;
-            i++;
-            j--;
-        }
-        else if(sum>k){
-            j--;
-
         }else{
-            i++;
+        map.put(nums[i],map.getOrDefault(nums[i],0)+1);
         }
-    }   
-    return op;
+
+    }
+      return op;
     }
 }
