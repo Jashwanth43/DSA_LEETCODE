@@ -36,6 +36,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0213-house-robber-ii) |
+| [0392-is-subsequence](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0392-is-subsequence) |
 ## Linked List
 |  |
 | ------- |
@@ -66,6 +67,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0392-is-subsequence) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/1894-merge-strings-alternately) |
 ## Sliding Window
@@ -85,6 +87,7 @@
 | [0283-move-zeroes](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0392-is-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/1894-merge-strings-alternately) |
 ## Greedy
 |  |
