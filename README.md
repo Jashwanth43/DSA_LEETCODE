@@ -20,6 +20,7 @@
 | [0334-increasing-triplet-subsequence](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0605-can-place-flowers) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -56,6 +57,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/1798-max-number-of-k-sum-pairs) |
 ## String
 |  |
 | ------- |
@@ -88,6 +90,7 @@
 | [0344-reverse-string](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0392-is-subsequence) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/1894-merge-strings-alternately) |
 ## Greedy
 |  |
@@ -104,4 +107,5 @@
 | ------- |
 | [0015-3sum](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0018-4sum) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/1798-max-number-of-k-sum-pairs) |
 <!---LeetCode Topics End-->
