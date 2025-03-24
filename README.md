@@ -21,6 +21,7 @@
 | [0605-can-place-flowers](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0605-can-place-flowers) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -92,12 +93,14 @@
 | [0392-is-subsequence](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0392-is-subsequence) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/1894-merge-strings-alternately) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0605-can-place-flowers) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -108,4 +111,5 @@
 | [0015-3sum](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0018-4sum) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 <!---LeetCode Topics End-->
