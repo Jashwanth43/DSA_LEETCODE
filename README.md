@@ -22,6 +22,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0643-maximum-average-subarray-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/1046-max-consecutive-ones-iii) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 ## Binary Search
@@ -43,6 +44,7 @@
 | [0198-house-robber](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0213-house-robber-ii) |
 | [0392-is-subsequence](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0392-is-subsequence) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Linked List
 |  |
 | ------- |
@@ -85,6 +87,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0643-maximum-average-subarray-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Two Pointers
 |  |
 | ------- |
