@@ -23,6 +23,7 @@
 | [0724-find-pivot-index](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0724-find-pivot-index) |
 | [0917-boats-to-save-people](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0917-boats-to-save-people) |
 | [1046-max-consecutive-ones-iii](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/1046-max-consecutive-ones-iii) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -69,6 +70,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/1798-max-number-of-k-sum-pairs) |
 ## String
 |  |
