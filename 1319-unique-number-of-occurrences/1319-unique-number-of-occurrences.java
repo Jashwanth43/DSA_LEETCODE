@@ -5,10 +5,7 @@ class Solution {
             map.put(i, map.getOrDefault(i,0)+1);
         }
        Set<Integer> set = new HashSet<>(map.values());
-        // Set<Integer> set=new HashSet<>();
-        // for(int i: list){
-        //     set.add(i);
-        // }
+        
         return set.size()==map.size();
     }
 }
