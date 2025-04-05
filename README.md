@@ -23,6 +23,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0724-find-pivot-index) |
 | [0917-boats-to-save-people](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0917-boats-to-save-people) |
+| [0941-sort-array-by-parity](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0941-sort-array-by-parity) |
 | [1046-max-consecutive-ones-iii](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/1046-max-consecutive-ones-iii) |
 | [1319-unique-number-of-occurrences](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -121,6 +122,7 @@
 | [0556-next-greater-element-iii](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0556-next-greater-element-iii) |
 | [0680-valid-palindrome-ii](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0680-valid-palindrome-ii) |
 | [0917-boats-to-save-people](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0917-boats-to-save-people) |
+| [0941-sort-array-by-parity](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0941-sort-array-by-parity) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/1894-merge-strings-alternately) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/1988-minimize-maximum-pair-sum-in-array) |
@@ -143,6 +145,7 @@
 | [0015-3sum](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0018-4sum) |
 | [0917-boats-to-save-people](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0917-boats-to-save-people) |
+| [0941-sort-array-by-parity](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0941-sort-array-by-parity) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 <!---LeetCode Topics End-->
