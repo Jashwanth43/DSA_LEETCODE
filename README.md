@@ -60,6 +60,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0142-linked-list-cycle-ii) |
 ## Math
 |  |
 | ------- |
@@ -77,6 +78,7 @@
 | [0001-two-sum](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0142-linked-list-cycle-ii) |
 | [1319-unique-number-of-occurrences](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -116,6 +118,7 @@
 | [0031-next-permutation](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0283-move-zeroes) |
