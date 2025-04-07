@@ -60,6 +60,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0061-rotate-list](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0142-linked-list-cycle-ii) |
 ## Math
@@ -118,6 +119,7 @@
 | [0018-4sum](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0031-next-permutation) |
+| [0061-rotate-list](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0142-linked-list-cycle-ii) |
