@@ -23,6 +23,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0724-find-pivot-index) |
 | [0917-boats-to-save-people](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0917-boats-to-save-people) |
+| [0940-fruit-into-baskets](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0940-fruit-into-baskets) |
 | [0941-sort-array-by-parity](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0941-sort-array-by-parity) |
 | [1046-max-consecutive-ones-iii](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/1046-max-consecutive-ones-iii) |
 | [1319-unique-number-of-occurrences](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/1319-unique-number-of-occurrences) |
@@ -82,6 +83,7 @@
 | [0141-linked-list-cycle](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0142-linked-list-cycle-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
+| [0940-fruit-into-baskets](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0940-fruit-into-baskets) |
 | [1319-unique-number-of-occurrences](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -109,6 +111,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0643-maximum-average-subarray-i) |
+| [0940-fruit-into-baskets](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/1046-max-consecutive-ones-iii) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
