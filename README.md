@@ -19,6 +19,7 @@
 | [0238-product-of-array-except-self](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0334-increasing-triplet-subsequence) |
+| [0503-next-greater-element-ii](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0503-next-greater-element-ii) |
 | [0605-can-place-flowers](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0724-find-pivot-index) |
@@ -164,4 +165,12 @@
 | [0941-sort-array-by-parity](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0941-sort-array-by-parity) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+## Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0503-next-greater-element-ii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
