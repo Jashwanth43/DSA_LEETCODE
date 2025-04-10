@@ -174,9 +174,19 @@
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0937-online-stock-span](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0937-online-stock-span) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0937-online-stock-span](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0937-online-stock-span) |
+## Design
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0937-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
