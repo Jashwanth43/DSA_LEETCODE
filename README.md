@@ -20,6 +20,7 @@
 | [0283-move-zeroes](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0334-increasing-triplet-subsequence) |
 | [0503-next-greater-element-ii](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0503-next-greater-element-ii) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0605-can-place-flowers](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0724-find-pivot-index) |
@@ -137,6 +138,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0392-is-subsequence) |
 | [0556-next-greater-element-iii](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0556-next-greater-element-iii) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0680-valid-palindrome-ii](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0680-valid-palindrome-ii) |
 | [0917-boats-to-save-people](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0941-sort-array-by-parity) |
@@ -148,6 +150,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0334-increasing-triplet-subsequence) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0605-can-place-flowers](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0680-valid-palindrome-ii) |
 | [0917-boats-to-save-people](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0917-boats-to-save-people) |
@@ -161,6 +164,7 @@
 | ------- |
 | [0015-3sum](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0018-4sum) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0917-boats-to-save-people](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0941-sort-array-by-parity) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -169,8 +173,10 @@
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0503-next-greater-element-ii) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0581-shortest-unsorted-continuous-subarray) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0503-next-greater-element-ii) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0581-shortest-unsorted-continuous-subarray) |
 <!---LeetCode Topics End-->
