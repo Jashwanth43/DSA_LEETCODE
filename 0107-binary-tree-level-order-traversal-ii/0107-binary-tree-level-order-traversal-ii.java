@@ -31,9 +31,10 @@ class Solution {
                         queue.add(treeNode.right);
                     }
                 }
-                result.add(0,sResult);
+                result.add(sResult);
             }
         }
+        Collections.reverse(result);
         return result;
     }
 }
