@@ -212,6 +212,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0199-binary-tree-right-side-view](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0226-invert-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Breadth-First Search
@@ -225,6 +226,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0199-binary-tree-right-side-view](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0226-invert-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Tree
@@ -239,6 +241,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0199-binary-tree-right-side-view](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0226-invert-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Depth-First Search
@@ -250,6 +253,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0199-binary-tree-right-side-view](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0226-invert-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0637-average-of-levels-in-binary-tree) |
 <!---LeetCode Topics End-->
