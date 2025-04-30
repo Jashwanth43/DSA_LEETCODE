@@ -14,6 +14,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0053-maximum-subarray) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0198-house-robber) |
@@ -169,6 +170,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0053-maximum-subarray) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Sorting
 |  |
 | ------- |
@@ -208,6 +210,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0112-path-sum) |
@@ -240,6 +243,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0112-path-sum) |
@@ -263,4 +267,8 @@
 | [0543-diameter-of-binary-tree](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/1035-cousins-in-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Jashwanth43/DSA_LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
